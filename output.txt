@@ -1,0 +1,74 @@
+0:0.016: 0:0.000: Child 1 message 1
+0:0.016: 0:0.000: Child 2 message 1
+0:0.016: 0:0.000: Child 3 message 1
+0:0.016: 0:0.000: Child 4 message 1
+0:1.000: 0:1.000: Child 1 message 2
+0:1.000: 0:1.000: Child 2 message 2
+0:1.000: 0:1.000: Child 3 message 2
+0:1.000: 0:1.000: Child 4 message 2
+0:1.841: 0:1.841: Child 5 hello
+0:2.000: 0:2.000: Child 1 message 3
+0:2.000: 0:2.000: Child 2 message 3
+0:2.000: 0:2.000: Child 3 message 3
+0:2.000: 0:2.000: Child 4 message 3
+0:4.384: 0:4.384: Child 5 how are you
+0:5.000: 0:5.000: Child 1 message 4
+0:5.000: 0:5.000: Child 2 message 4
+0:5.000: 0:5.001: Child 3 message 4
+0:5.000: 0:5.001: Child 4 message 4
+0:6.000: 0:6.001: Child 1 message 5
+0:6.000: 0:6.000: Child 2 message 5
+0:6.001: 0:6.001: Child 3 message 5
+0:6.001: 0:6.001: Child 4 message 5
+0:6.001: 0:6.001: Child 3 message 6
+0:6.430: 0:6.430: Child 5 I am fine/Users/meghanashivaprasad/Downloads/COEN 383 Advanced OS - Ahmed Ezzat/AOS Ahmed Ezzat Tejaswi/AOS Ahmed Ezzat Tejaswi/Projects/p6-group4 2/output.txt
+0:7.001: 0:7.001: Child 2 message 7
+0:7.001: 0:7.001: Child 1 message 7
+0:7.001: 0:7.001: Child 4 message 7
+0:7.001: 0:7.001: Child 3 message 7
+0:8.001: 0:8.001: Child 1 message 8
+0:8.001: 0:8.001: Child 2 message 8
+0:8.001: 0:8.001: Child 4 message 8
+0:8.001: 0:8.001: Child 3 message 8
+0:9.001: 0:9.001: Child 1 message 10
+0:9.001: 0:9.001: Child 2 message 10
+0:9.001: 0:9.001: Child 3 message 10
+0:9.001: 0:9.001: Child 4 message 10
+0:10.001: 0:10.001: Child 1 message 12
+0:10.001: 0:10.001: Child 2 message 12
+0:10.001: 0:10.001: Child 4 message 12
+0:10.001: 0:10.001: Child 3 message 12
+0:12.001: 0:12.001: Child 1 message 13
+0:12.001: 0:12.001: Child 2 message 13
+0:12.001: 0:12.001: Child 3 message 13
+0:12.001: 0:12.001: Child 4 message 13
+0:14.482: 0:14.482: Child 5 Group 4
+0:15.001: 0:15.001: Child 1 message 14
+0:15.001: 0:15.001: Child 2 message 14
+0:15.001: 0:15.001: Child 3 message 14
+0:15.001: 0:15.001: Child 4 message 14
+0:18.003: 0:18.003: Child 1 message 15
+0:18.003: 0:18.003: Child 3 message 15
+0:18.003: 0:18.003: Child 2 message 15
+0:18.003: 0:18.003: Child 4 message 15
+0:19.003: 0:19.003: Child 1 message 16
+0:19.003: 0:19.003: Child 2 message 16
+0:19.003: 0:19.003: Child 3 message 16
+0:19.003: 0:19.003: Child 4 message 16
+0:21.003: 0:21.003: Child 1 message 17
+0:21.003: 0:21.003: Child 2 message 17
+0:21.003: 0:21.003: Child 3 message 17
+0:21.003: 0:21.003: Child 4 message 17
+0:21.772: 0:21.772: Child 5 Project 6
+0:23.456: 0:23.450: Child 5 Tej
+0:24.003: 0:24.003: Child 3 message 18
+0:24.003: 0:24.003: Child 2 message 18
+0:24.003: 0:24.003: Child 4 message 18
+0:24.006: 0:24.006: Child 1 message 18
+0:24.485: 0:24.484: Child 5 Yo
+0:26.958: 0:26.958: Child 5 Hi
+0:27.003: 0:27.003: Child 3 message 19
+0:27.003: 0:27.003: Child 2 message 19
+0:27.003: 0:27.003: Child 4 message 19
+0:27.006: 0:27.006: Child 1 message 19
+0:29.684: 0:29.684: Child 5 Hmm
